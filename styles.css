@@ -1,0 +1,208 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar{
+    position: fixed;
+    font-size: 22px;
+    border: height 2px;
+    border-bottom-style: solid;
+    border-bottom-color:blue;
+   
+    
+}
+.navbar-brand{
+    padding-left: 10px;
+    
+}
+.nav-link{
+    margin: 10px;
+}
+
+.c-image{
+    max-height: 600px;
+    width: 100%;
+}
+.carousel-caption{
+    text-shadow: 2px 4px 4px rgba(0, 0, 0, 0.6);
+}
+#overview{
+    text-align: left;
+    padding: 70px;
+    font-family: 'Montserrat', sans-serif;
+}
+.section-title{
+    font-size: 64px;
+    padding-top: 10px;
+    font-weight: 600;
+}
+.overview-paragraph{
+    font-size: 22px;
+    text-align: justify;
+    padding-top: 10px;
+    
+}
+.overview-subtitle{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+#rooms{
+    background-color: #131313;
+    color: aliceblue;
+    text-align: left;
+    padding: 70px;
+    font-family: 'Montserrat', sans-serif;
+}
+.card-text{
+    text-align: justify;
+}
+.btn{
+    background-color: #000;
+  color: whitesmoke;
+  font-weight: 400;
+  font-size:medium;
+  border-radius: 5px;
+}
+
+#restaurants{
+    text-align: left;
+    padding-top: 70px;
+    padding-left: 70px;
+    padding-right: 10px;
+    padding-bottom: 70px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+.rest-img{
+    width: 100%;
+    border-radius:40px ;
+
+    
+}
+.rest-img:hover { filter: brightness(70%); }
+
+p{
+    text-align: justify;
+}
+#meetings{
+    background-color: #131313;
+    color: aliceblue;
+    text-align: left;
+    padding: 70px;
+    font-family: 'Montserrat', sans-serif;
+}
+.row{
+    padding: 0;
+}
+.key-fea{
+    font-size: 24px;
+    color: #ffffff;
+    text-shadow: 2px 2px 2px rgba(58, 58, 58, 0.6);
+    font-weight: 500;
+   
+}
+
+.events-paragraph{
+    font-size: 20px;
+}
+
+.key-features{
+    font-weight: 600;
+}
+/* .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    margin: 0%;
+    padding: 0%;
+   
+} */
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+    text-align: left;
+ 
+    
+}
+.rooms-title{
+    text-align: right;
+    font-size: 64px;
+    padding-top: 10px;
+    font-weight: 600;
+}
+.meetings-title{
+    text-align: right;
+    font-size: 64px;
+    padding-top: 10px;
+    font-weight: 600;
+}
+#carouselExampleInterval2{
+    border-radius: 10px;
+}
+.carousel-item{
+    border-radius: 10px;
+}
+.meet-ca{
+    border-radius: 40px;
+}
+
+#events{
+    text-align: right;
+}
+
+#contact{
+    text-align: left;
+    padding-top: 70px;
+    padding-left: 70px;
+    padding-right: 10px;
+    padding-bottom: 70px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.number{
+    padding-top: 15px;
+    font-size: 22px;
+    
+}
+.ad-title{
+    font-size: 28px;
+    font-weight: 600;
+}
+.address{
+    font-size: 22px;
+}
+.copyright{
+   
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 10px;
+    font-style: italic;
+    padding-top: 30px;
+  
+}
+.hr{
+    border: 1px solid rgb(0, 0, 0);
+    border-style: dashed;
+}
+.social-title{
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+}
+.fa-brands{
+    padding-left: 20px;
+    padding-right: 20px;
+    size: 30px;
+   
+}
+.fa-brand:hover{   filter: brightness(70%); }
+
+
+#footer{
+    text-align: center;
+    padding-bottom: 20px;
+}
